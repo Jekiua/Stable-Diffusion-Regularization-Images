@@ -1,1 +1,1 @@
-
+Stable Diffusion Regularization Images
